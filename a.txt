@@ -3,4 +3,4 @@ main2
 second1
 
 solve error
-other error!
+other error!!!
